@@ -22,7 +22,7 @@ sudo pip install temp-mail
 ```
 * Then we clone Repo and run bot.py
 ```
-git clone https://github.com/JackTelegram/FakeMail
+git clone https://github.com/CeWeR/FakeMail
 cd FakeMail
 ```
 *Edit bot.py file and add your Bot Token to line 5 then:*
